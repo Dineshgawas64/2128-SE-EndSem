@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Basic_Wardrobes"},{"p":"<Unnamed>","l":"Basic_Wardrobes.Type"}];updateSearchResults();
